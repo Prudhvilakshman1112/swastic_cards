@@ -3,7 +3,7 @@
    ========================================================================== */
 
 // Configuration Constants
-const OWNER_WHATSAPP_NUMBER = "919000499222"; // Replace with owner's actual WhatsApp number (with country code, without +)
+const OWNER_WHATSAPP_NUMBER = "917032523049"; // Replace with owner's actual WhatsApp number (with country code, without +)
 const INSTAGRAM_HANDLE = "swastikcardsofficial";
 
 // Product Database (All 10 products now fully populated with high-quality custom assets)
